@@ -3,6 +3,9 @@ build/
 <<<<<<< HEAD
 =======
 out/
+<<<<<<< HEAD
+>>>>>>> parent of 53a0d2a... Исключен файл uiDesigner.xml, удалена лишняя строка в коде
+=======
 >>>>>>> parent of 53a0d2a... Исключен файл uiDesigner.xml, удалена лишняя строка в коде
 
 # Ignore Gradle GUI config
